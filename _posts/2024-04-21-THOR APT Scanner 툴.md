@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "THOR APT Scanner 툴을 활용한 침해 진단 업무"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: 정보보안
 ---
 
 # THOR APT Scanner 툴을 활용한 침해 진단 업무
