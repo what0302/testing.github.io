@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T20:11:16.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NnzGGo3JjFblDwKdBgQW" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-29T20:23:29.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9-_GWpNSTPtktL3Ht9-C" version="24.3.1" type="github" pages="3">
   <diagram name="페이지-1" id="3iENT5c-e2DkHLxXrCdG">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,44 +256,20 @@
         <mxCell id="40R5OShiueIq8cy8UI3I-10" value="텔레그램" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
           <mxGeometry x="95" y="-410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="40R5OShiueIq8cy8UI3I-12" value="다운로드" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="220" y="-614" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-13" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="364" y="-480" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EePXfNzyNa2H5RFm34Vp-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="40R5OShiueIq8cy8UI3I-14" target="40R5OShiueIq8cy8UI3I-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="290" y="-480" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-14" value="데이터 정리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="329" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="371.75" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="40R5OShiueIq8cy8UI3I-14" target="40R5OShiueIq8cy8UI3I-14">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="40R5OShiueIq8cy8UI3I-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-310" as="sourcePoint" />
-            <mxPoint x="390" y="-240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="40R5OShiueIq8cy8UI3I-17" value="문자열 검색" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="400" y="-290" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="40R5OShiueIq8cy8UI3I-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="-205" as="sourcePoint" />
-            <mxPoint x="590" y="-205" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-20" value="PM 메일" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
           <mxGeometry x="590" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents;gradientColor=#97d077;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="371.75" y="-227.5" width="36.5" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="40R5OShiueIq8cy8UI3I-22" value="결과 데이터" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="361" y="-176" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="-417.5" width="36.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
