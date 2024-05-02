@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T01:59:34.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="COI4-3ORX76YVnAZTt9J" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-02T02:01:44.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wJnApZsXJM9pLFI4tTC4" version="24.3.1" type="github" pages="3">
   <diagram name="페이지-1" id="3iENT5c-e2DkHLxXrCdG">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,34 +274,34 @@
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="40R5OShiueIq8cy8UI3I-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-510" as="sourcePoint" />
-            <mxPoint x="310" y="-465" as="targetPoint" />
+            <mxPoint x="370" y="-465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-3" value="다운로드" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="220" y="-467" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="-465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="40R5OShiueIq8cy8UI3I-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-510" as="sourcePoint" />
-            <mxPoint x="310" y="-435" as="targetPoint" />
+            <mxPoint x="370" y="-435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-5" value=".zip, .csv, .txt 등" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="210" y="-437" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="-430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-6" value="텔레그램 모니터링 서버" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="329" y="-630" width="425" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="FNpEXrKObbqGdhLYxuvZ-7" value="data" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FNpEXrKObbqGdhLYxuvZ-6">
-          <mxGeometry x="19" y="153" width="130" height="57" as="geometry" />
+          <mxGeometry x="340" y="-630" width="425" height="340" as="geometry" />
         </mxCell>
         <mxCell id="FNpEXrKObbqGdhLYxuvZ-16" value="분류" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FNpEXrKObbqGdhLYxuvZ-6">
-          <mxGeometry x="144" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="125" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FNpEXrKObbqGdhLYxuvZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="FNpEXrKObbqGdhLYxuvZ-7">
+        <mxCell id="FNpEXrKObbqGdhLYxuvZ-17" value="data" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FNpEXrKObbqGdhLYxuvZ-6">
+          <mxGeometry x="45" y="133" width="80" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="FNpEXrKObbqGdhLYxuvZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="40R5OShiueIq8cy8UI3I-1" source="FNpEXrKObbqGdhLYxuvZ-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-450" as="sourcePoint" />
-            <mxPoint x="540" y="-448.16483516483527" as="targetPoint" />
+            <mxPoint x="478" y="-448.5" as="sourcePoint" />
+            <mxPoint x="530" y="-450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
