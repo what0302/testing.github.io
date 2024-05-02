@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T06:41:51.179Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KvMZltm-ZdNW-x1gpEOW" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-02T06:48:47.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NI7w89NEpBgoKcpP2qkj" version="24.3.1" type="github" pages="3">
   <diagram name="페이지-1" id="3iENT5c-e2DkHLxXrCdG">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,9 +247,6 @@
       <root>
         <mxCell id="40R5OShiueIq8cy8UI3I-0" />
         <mxCell id="40R5OShiueIq8cy8UI3I-1" parent="40R5OShiueIq8cy8UI3I-0" />
-        <mxCell id="4Q_0es01rfJkrbgv5-WJ-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;gradientColor=none;perimeterSpacing=10;strokeColor=#000000;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
-          <mxGeometry x="380" y="-700" width="930" height="500" as="geometry" />
-        </mxCell>
         <mxCell id="40R5OShiueIq8cy8UI3I-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;glass=0;shadow=1;strokeWidth=2;strokeColor=#000000;" parent="40R5OShiueIq8cy8UI3I-1" vertex="1">
           <mxGeometry x="55" y="-630" width="130" height="280" as="geometry" />
         </mxCell>
@@ -510,6 +507,9 @@
         </mxCell>
         <mxCell id="4Q_0es01rfJkrbgv5-WJ-102" value="법무부팀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
           <mxGeometry x="1431" y="-249" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q_0es01rfJkrbgv5-WJ-103" value="텔레그램 모니터링 서버" style="swimlane;startSize=20;horizontal=1;containerType=tree;rounded=1;strokeWidth=2;" vertex="1" parent="40R5OShiueIq8cy8UI3I-1">
+          <mxGeometry x="380" y="-730" width="930" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
